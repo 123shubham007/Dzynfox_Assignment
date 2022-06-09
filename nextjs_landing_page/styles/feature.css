@@ -1,0 +1,26 @@
+.weigth {
+    font-weight: 400;
+}
+
+.text {
+    color: #343a40;
+}
+
+.t-color {
+    color: #ffc107;
+}
+
+.para-color {
+    color: #6c757d;
+    font-weight: 400;
+}
+
+.note {
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+
+.m-top-bottom {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
