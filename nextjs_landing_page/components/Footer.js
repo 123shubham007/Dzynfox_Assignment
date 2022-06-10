@@ -51,11 +51,11 @@ const Footer = () => {
                 <h6 className="text m-top-bottom">Our Address</h6>
                 <p className="text">xyz</p>
                 <h6 className="text m-bottom">Email: shubhamkumar.123.sk001@email.com</h6>
-                <ul className="list-unstyled footer-social-list mt-4">
-                  <li className="list-inline-item"><a href="#"><i className="mdi mdi-facebook"></i></a></li>
-                  <li className="list-inline-item"><a href="#"><i className="mdi mdi-instagram"></i></a></li>
-                  <li className="list-inline-item"><a href="#"><i className="mdi mdi-linkedin"></i></a></li>
-                </ul>
+                <div classNam="icons-wrapper">
+                  <i className="ri-instagram-line icon"></i>
+                  <i className="ri-facebook-circle-line icon"></i>
+                  <i className="ri-whatsapp-line icon"></i>
+                </div>
               </Col>
             </Row>
           </Col>
