@@ -9,15 +9,10 @@ const Hero = () => {
           <Col lg={6}>
             <div className="pr-lg-5">
               <p className="title">PGLife</p>
-              <h1 className="heading"><span className="color">PGLife</span> Create token for booking hostel!</h1>
+              <h1 className="heading"><span className="color">PGLife</span> Create token to book hostel!</h1>
               <p className="paragraph">PGLife helps you register your hostel on our portal where other students can find and generate tokens for booking at your hostel.</p>
-              <a href="#">
-                <button class="learn-more">
-                  <span class="circle" aria-hidden="true">
-                    <span class="icon arrow"></span>
-                  </span>
-                  <span class="button-text">Find Out How</span>
-                </button>
+              <a href="#" className="btn btn-warning">
+                Find Out How <span className="ml-2 right-icon">&#8594;</span>
               </a>
               </div>
           </Col>

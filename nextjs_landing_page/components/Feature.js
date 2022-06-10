@@ -47,7 +47,7 @@ const Feature = () => {
   const features = [
     {id : 1, img : "./images/45.png", title : "REGISTER YOUR HOSTEL!", desc : "By connecting with us you can register your hostel/PG, Flat, or any types of property which you want to put on rent with just a few clicks.", link : "/"},
     {id : 2, img : "./images/Group Members.png", title : "SHOW YOUR FEATURES", desc : "You can show your hostel facilities so that student can compare your facilities with others", link : "/"},
-    {id : 3, img : "./images/45.png", title : "FEATURE", desc : "Any other feature related to teh project.", link : "/"},
+    {id : 3, img : "./images/45.png", title : "FEATURE", desc : "Any other feature related to the project.", link : "/"},
   ];
 
   return (
